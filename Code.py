@@ -1,11 +1,11 @@
 import matplotlib.pyplot as plt
-from matplotlib import rcParams
 import numpy as np
+import pandas as pd 
+from matplotlib import rcParams
 from matplotlib import ticker
 from sklearn.linear_model import BayesianRidge
 from sklearn.model_selection import train_test_split
 %matplotlib inline   
-import pandas as pd 
 
 #Scaling overall size
 rcParams['figure.figsize'] = 20,10
