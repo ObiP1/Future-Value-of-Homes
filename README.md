@@ -4,3 +4,5 @@ Incorporates machine learning and predicts the future values of homes for the ne
 Files Included:
 
 1) AverageHomeValues.csv - Data table containing our relative median values for home in Maryland from 1940-2020
+2) Code.py - Raw python code created to obtain our model
+
