@@ -58,6 +58,9 @@ Set up plot and label the training data, test data, and prediction. Lastly, show
 
 ![PltData](https://user-images.githubusercontent.com/60532479/82473922-44e84280-9a98-11ea-8309-c045652c6b74.png)
 
+![FinalPlot](https://user-images.githubusercontent.com/60532479/82474461-1880f600-9a99-11ea-94d6-fab362fa5c29.png)
+
+
 
 
 
