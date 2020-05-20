@@ -1,6 +1,5 @@
 # The-Future-Value-of-Homes
-Incorporates machine learning and predicts the future values of homes for the next few decades based off of previous values for the state of Maryland. Implements the use of Bayesian regression due to our dataset not being tremendously large. A model is also created for visualization. Bayesian Regression is preferred with smaller data sets such as the one I am using.
-
+Incorporates machine learning and predicts the future values of homes for the next few decades based off of previous values for the state of Maryland. Implements the use of Bayesian regression due to our dataset not being tremendously large. A model is also created for visualization. 
 Files Included:
 
 1) AverageHomeValues.csv - Data table containing median price values for homes in Maryland from 1940-2020
@@ -18,4 +17,13 @@ Import the necessary libraries
 **STEP 2)**
 
 Now I am grabbing the csv file attached within this repository. Due to me implementing more than just an integer for certain columns ($), I needed to then use pandas' "astype()" function to essentially pass my columns as a float in order for the program to execute properly.
+
+![Grab dataset](https://user-images.githubusercontent.com/60532479/82469086-92ad7c80-9a91-11ea-8e1a-d2553e8f6a43.png)
+
+
+
+**STEP 3)**
+
+Set your size, titles, and fonts for the plot.
+
 
