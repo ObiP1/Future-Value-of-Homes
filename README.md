@@ -46,8 +46,15 @@ Reshape and fit the data with the use of Bayesian Regression.
 **STEP 6)**
 
 
-Predict up until the year 2050 and create print lines in order to display  our accuracy. 
+Predict up until the year 2050 and create print lines in order to display our training and test accuracy. 
 
+
+![Pred](https://user-images.githubusercontent.com/60532479/82472744-a6a7ad00-9a96-11ea-85e4-8fe5a041ecf3.png)
+
+
+**STEP 7)**
+
+Plot and labeling of the data. Created different line styles for distinction.
 
 
 
