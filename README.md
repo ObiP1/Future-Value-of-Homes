@@ -54,7 +54,12 @@ Predict up until the year 2050 and create print lines in order to display our tr
 
 **STEP 7)**
 
-Plot and labeling of the data. Created different line styles for distinction.
+Set up plot and label the training data, test data, and prediction. Lastly, show the plot and accuracy.
+
+![PltData](https://user-images.githubusercontent.com/60532479/82473922-44e84280-9a98-11ea-8309-c045652c6b74.png)
+
+
+
 
 
 
