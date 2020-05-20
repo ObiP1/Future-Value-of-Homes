@@ -16,5 +16,6 @@ Import the necessary libraries
 
 
 **STEP 2)**
-Now I am grabbing the csv file attached within this repository.
+
+Now I am grabbing the csv file attached within this repository. Due to me implementing more than just an integer for certain columns ($), I needed to then use pandas' "astype()" function to essentially pass my columns as a float in order for the program to execute properly.
 
