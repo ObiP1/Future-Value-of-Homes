@@ -40,6 +40,14 @@ Set your training and test sets. In this case I am training the model on all med
 
 Reshape and fit the data with the use of Bayesian Regression. 
 
+![Reshape](https://user-images.githubusercontent.com/60532479/82472137-b4a8fe00-9a95-11ea-899c-b7710c1d698c.png)
+
+
+**STEP 6)**
+
+
+Predict up until the year 2050 and create print lines in order to display  our accuracy. 
+
 
 
 
