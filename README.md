@@ -16,5 +16,5 @@ Import the necessary libraries
 
 
 **STEP 2)**
-
+Now I am grabbing the csv file attached within this repository.
 
