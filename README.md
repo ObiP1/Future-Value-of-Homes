@@ -36,4 +36,11 @@ Set your training and test sets. In this case I am training the model on all med
 ![Data](https://user-images.githubusercontent.com/60532479/82470381-45320f00-9a93-11ea-9830-e9119b45e9c8.png)
 
 
+**STEP 5)**
+
+Reshape and fit the data with the use of Bayesian Regression. 
+
+
+
+
 
