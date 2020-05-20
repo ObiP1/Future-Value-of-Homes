@@ -26,4 +26,11 @@ Now I am grabbing the csv file attached within this repository. Due to me implem
 
 Set your size, titles, and fonts for the plot.
 
+![Scale](https://user-images.githubusercontent.com/60532479/82469505-1d8e7700-9a92-11ea-842f-d567529298ee.png)
+
+
+**STEP 4)**
+
+Set your training and test sets. In this case I am training the model on all median values from 1940 to 2020. 
+
 
