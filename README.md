@@ -33,4 +33,7 @@ Set your size, titles, and fonts for the plot.
 
 Set your training and test sets. In this case I am training the model on all median values from 1940 to 2020. 
 
+![Data](https://user-images.githubusercontent.com/60532479/82470381-45320f00-9a93-11ea-9830-e9119b45e9c8.png)
+
+
 
